@@ -12,7 +12,7 @@
   - My paper proxies cooperation between communities using a variable that measures the political party alignment of majors in neighboring municipalities. 
   - With a Digital Elevation Model (DEM) from Mexico and GIS modeling, I determine the direction of the flow of the country's rivers and determine which communities 
   are upstream and which are downstream.
-  - I still have a lot of work ahead of me, but once I'm done I'll share a repository on this with some cool maps.
+  - I still have a lot of work ahead of me, but once I'm done I'll share a repository on this with some cool maps and my R code.
 - You can reach me on [Twitter](https://twitter.com/j_barrutia). 
 
 
