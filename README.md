@@ -1,5 +1,6 @@
 ## About me:
 
+- People usually calls me Quino.
 - I was born and raised in the south of Mexico City.
 - My pronouns are he/him.
 - I studied Economics at [ITAM](https://www.itam.mx/en). 
