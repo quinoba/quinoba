@@ -1,6 +1,6 @@
 ## About me:
 
-- People usually calls me Quino.
+- My name is Joaquín but people usually calls me Quino.
 - I was born and raised in the south of Mexico City.
 - My pronouns are he/him.
 - I am a huge fan of one of my city's local football teams: [Cruz Azul](https://www.cruzazulfc.com.mx/).
