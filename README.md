@@ -15,7 +15,7 @@
   - With a Digital Elevation Model (DEM) from Mexico and GIS modeling, I determine the direction of the flow of the country's rivers and determine which communities 
   are upstream and which are downstream from each other.
   - My thesis shows evidence that water quality in mexican rivers improves on average in contexts where cooperation is fostered.
-  - You can have a look at my thesis and my R Markdown and replicabilty data in this [repository](https://github.com/quinoba/Spillovers_Cooperation).
+  - You can have a look at my thesis, my R Markdown and replicabilty data in this [repository](https://github.com/quinoba/Spillovers_Cooperation).
  
 
 
