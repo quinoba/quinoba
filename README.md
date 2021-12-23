@@ -11,7 +11,7 @@
   Rivers are a classic textbook example of externalities, pollution from upstream communities is greater than socially optimal pollution since the negative effects
   will be borne by the downstream communities. Cooperation can incentivize upstream communities to take costly actions to reduce their pollution, thus benefiting 
   downstream communities.
-  - Using a political alignment dichotomous variable that indicates whether the political party of two mayors in neighboring municipalities is the same my paper tries to investigate whether political alignment can foster cooperation between municipalities. 
+  - My work tries to investigate whether political alignment can foster cooperation between municipalities using a political alignment dichotomous variable that indicates whether the political party of two mayors in neighboring municipalities is the same. 
   - With a Digital Elevation Model (DEM) from Mexico and GIS modeling, I determine the direction of the flow of the country's rivers and determine which communities 
   are upstream and which are downstream from each other.
   - My thesis shows evidence that water quality in mexican rivers improves on average in contexts where cooperation is fostered.
