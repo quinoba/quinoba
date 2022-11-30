@@ -1,7 +1,7 @@
 ## About me:
 
-- My name is Joaquín but people usually calls me Quino.
-- Currently studying a M.A. in Economics at [Uppsala University](https://www.nek.uu.se/?languageId=1)
+- My name is Joaquín but people usually call me Quino.
+- Currently studying a M.A. in Economics at [Uppsala University](https://www.nek.uu.se/?languageId=1).
 - I was born and raised in the south of Mexico City.
 - My pronouns are he/him.
 - I am a huge fan of one of my city's local football teams: [Cruz Azul](https://www.cruzazulfc.com.mx/).
