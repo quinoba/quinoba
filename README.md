@@ -2,8 +2,8 @@
 
 - My name is Joaquín but people usually call me Quino.
 - My pronouns are he/him.
-- I was born and raised in the south of Mexico City.
-- Currently studying a MA in Economics at [Uppsala University](https://www.nek.uu.se/?languageId=1).
+- I was born and raised in the south of Mexico City 🇲🇽🌮.
+- Currently studying a MA in Economics at [Uppsala University](https://www.nek.uu.se/?languageId=1)🇸🇪.
 - I am a huge fan of one of my city's local football teams: [Cruz Azul](https://www.cruzazulfc.com.mx/).
 - I studied my BA in Economics at [ITAM](https://www.itam.mx/). 
 - I wrote my undergrad thesis on Water Pollution Spillovers and Cooperation in Mexico.
