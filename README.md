@@ -1,6 +1,6 @@
 ## About me:
 
-- My name is Joaquín but people usually call me Quino.
+- People usually call me Quino.
 - My pronouns are he/him.
 - I was born and raised in the south of Mexico City 🇲🇽🌮.
 - Currently studying a MSc in Economics at [Uppsala University](https://www.nek.uu.se/?languageId=1) 🇸🇪.
