@@ -8,7 +8,6 @@
 - I studied my BA in Economics at [ITAM](https://www.itam.mx/). 
 - I wrote my undergrad thesis on Water Pollution Spillovers and Cooperation in Mexico.
   - You can have a look at my thesis, my R Markdown and replicabilty data in this [repository](https://github.com/quinoba/Spillovers_Cooperation).
-- You can reach me on [Twitter](https://twitter.com/j_barrutia).
  
 
 
