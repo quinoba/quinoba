@@ -1,7 +1,6 @@
 ## About me:
 
 - People usually call me Quino.
-- My pronouns are he/him.
 - I was born and raised in the south of Mexico City 🇲🇽🌮.
 - Currently doing a PhD in Economics at [Emory University](https://economics.emory.edu/people/doctoral-students/barrutia-joaquin.html) 🇺🇸.
 - I am a huge fan of one of my city's local football teams: [Cruz Azul](https://www.cruzazulfc.com.mx/).
